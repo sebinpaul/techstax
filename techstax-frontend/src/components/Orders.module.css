@@ -1,0 +1,15 @@
+.container {
+  padding: 1rem 0;
+}
+
+.orderTitle {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.orderTitle :last-child {
+  color: #e92f48;
+  font-weight: 600;
+  font-size: 0.8rem;
+}

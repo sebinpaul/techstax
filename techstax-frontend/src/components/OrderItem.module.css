@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+  height: 4rem;
+  margin-top: 1rem;
+  border-bottom: 1px solid #7e83891c;
+}
+
+.productDetails {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  margin-left: 0.5rem;
+}
+
+.quantity {
+  height: fit-content;
+  color: white;
+  background-color: #e92f48;
+  padding: 0 0.2rem;
+  font-size: 0.7rem;
+  border-radius: 0.2rem;
+}
+
+.productDetails :first-child {
+  font-style: italic;
+}
+
+.productDetails :nth-child(2) {
+  font-size: 0.7rem;
+}
