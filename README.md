@@ -7,6 +7,7 @@ An order page for TSX Pizzerias
 - [Project Overview](#project-overview)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
+- [Screenshots](#screenshots)
 
 ## Project Overview
 
@@ -44,3 +45,10 @@ npm install
 npm start
 
 ```
+
+## Screenshots
+![Alt text](https://github.com/sebinpaul/techstax/blob/master/img1.PNG)
+![Alt text](https://github.com/sebinpaul/techstax/blob/master/img2.PNG)
+![Alt text](https://github.com/sebinpaul/techstax/blob/master/img3.PNG)
+![Alt text](https://github.com/sebinpaul/techstax/blob/master/img4.PNG)
+![Alt text](https://github.com/sebinpaul/techstax/blob/master/img5.PNG)
